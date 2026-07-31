@@ -21,7 +21,8 @@ Experience spans EHR implementation and legacy record migration (Nigeria), clini
 
 A longitudinal qualitative research project applying professional evidence-synthesis methods to personal observation, an iterative workflow of *observation → organisation → thematic synthesis → hypothesis generation → revision*, communicated through custom HTML/CSS/SVG visualisations.
 
-📁 [View the project](#) *(link to your repo once it's live)*
+📁 [View the project](https://github.com/peace-ok/every-thought-drawn)
+
 
 ---
 
